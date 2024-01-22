@@ -44,11 +44,11 @@ header > p{
     text-shadow: 3px 4px 9px rgba(0, 0, 0, 0.444);
 }
 nav{
-   margin: 7px;
+  padding: 10px;
    transition-duration: 2s;
 }
 nav > a{
-    padding: 7px;
+    padding: 10px;
     text-decoration: none;
     color: var(--cor02);
     font-weight: normal;
@@ -60,8 +60,9 @@ nav > a:hover{
 }
 main{
     background-color: white;
+    margin: 0px;
     margin: auto;
-    padding: 17px;
+    padding: 20px;
     min-width: 320px;
     max-width: 1000px;
 }
