@@ -146,6 +146,9 @@ footer{
     position: relative;
     margin: 0px -17px 20px -17px;
 }
+#corte{
+    width: 100%;
+}
 div > iframe{
     position: absolute;
     top: 5%;
