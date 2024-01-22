@@ -24,7 +24,7 @@ body{
 }
 header{
    background-color: var(--cor03);
-    height: 150px;
+    min-width: 150px;
     font-weight: normal;
     color: white;
 }
@@ -47,11 +47,10 @@ nav{
    margin: 10px;
    transition-duration: 2s;
 }
-a{
-    padding: 4px;
+nav > a{
+    padding: 10px;
     text-decoration: none;
     color: var(--cor02);
-    font-size: 1em;
     font-weight: normal;
 }
 nav > a:hover{
