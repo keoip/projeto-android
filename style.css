@@ -44,11 +44,11 @@ header > p{
     text-shadow: 3px 4px 9px rgba(0, 0, 0, 0.444);
 }
 nav{
-   margin: 10px;
+   margin: 7px;
    transition-duration: 2s;
 }
 nav > a{
-    padding: 10px;
+    padding: 7px;
     text-decoration: none;
     color: var(--cor02);
     font-weight: normal;
