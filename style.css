@@ -86,6 +86,11 @@ main h2{
     background-image: linear-gradient(to right, var(--cor02), transparent);
     border-top-left-radius: 7px;
 }
+main img{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
 .externos{
     color: #397871;
 }
@@ -145,9 +150,6 @@ footer{
     padding-bottom: 59%;
     position: relative;
     margin: 0px -17px 20px -17px;
-}
-#corte{
-    width: 100%;
 }
 div > iframe{
     position: absolute;
