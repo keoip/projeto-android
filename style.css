@@ -44,11 +44,11 @@ header > p{
     text-shadow: 3px 4px 9px rgba(0, 0, 0, 0.444);
 }
 nav{
-  padding: 10px;
+  padding: 6px;
    transition-duration: 2s;
 }
 nav > a{
-    padding: 10px;
+    padding: 6px;
     text-decoration: none;
     color: var(--cor02);
     font-weight: normal;
@@ -57,6 +57,7 @@ nav > a:hover{
     background-color: var(--cor04);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    height: 70%;
 }
 main{
     background-color: white;
