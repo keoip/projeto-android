@@ -42,6 +42,8 @@ header > p{
     font-family: var(--fonte-padrão);
     margin-bottom: 50px;
     text-shadow: 3px 4px 9px rgba(0, 0, 0, 0.444);
+    margin-left: 10px;
+    margin-right: 10px;
 }
 nav{
    margin: 10px;
@@ -51,7 +53,7 @@ a{
     padding: 4px;
     text-decoration: none;
     color: var(--cor02);
-    font-size: 1em;
+    font-size: 0.5em;
     font-weight: normal;
 }
 nav > a:hover{
